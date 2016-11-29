@@ -1,18 +1,46 @@
-# my-first-project
+## 招聘指数
 
-> first Demo
+### 招聘指数-主要行业
 
-## Build Setup
+返回JSON格式
 
-``` bash
-# install dependencies
-npm install
 
-# serve with hot reload at localhost:8080
-npm run dev
 
-# build for production with minification
-npm run build
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+```
+
+
+
+### 招聘指数-7大类行业细分
+
+
+
+GeneralIndustry  一共有7个行业大类，其中 大类的值为后续细分行业汇总的值
+
+```json
+{
+  "GeneralIndustry": {
+    "制造业": "123",
+    "金融业": "321"
+  },
+  "SubdivideIndustry": {
+    "制造业": {
+      "飞机制造业1": "23423",
+      "骑车制造业2": "111",
+      "仪器制造业3": "222"
+    },
+    "金融业": {
+      "银行": "123",
+      "保险": "444",
+      "证券": "bbb"
+    }
+  }
+}
+```
+
+
+
+
+
