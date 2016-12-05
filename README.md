@@ -6,6 +6,10 @@
 
 ### 招聘指数-主要行业
 
+```
+http://172.16.131.235:8080/spider-web/riviews/gardenindex/recruitIndex
+```
+
 行业不止一下两个，这为示例 实际行业为固定7个
 
 ```json
