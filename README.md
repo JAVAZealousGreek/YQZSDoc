@@ -48,7 +48,9 @@ http://172.16.131.235:8080/spider-web/riviews/gardenindex/recruitIndex
 
 
 ### 招聘指数-7大类细分行业
-
+```
+http://172.16.131.235:8080/spider-web/riviews/gardenindex/subdivideIndustryIndex
+```
 GeneralIndustry  一共有7个行业大类
 
 每类去取Top10的细分行业倒序排列
@@ -73,7 +75,9 @@ GeneralIndustry  一共有7个行业大类
 ## 经济指数
 
 ### 经济指数-地区生产总值
-
+```
+http://172.16.131.235:8080/spider-web/riviews/gardenindex/provincesYearGDPIndex
+```
 最近5年 全国所有省级区域的对应指标值
 
 ```JSON
