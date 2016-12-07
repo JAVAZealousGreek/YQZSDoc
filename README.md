@@ -351,7 +351,9 @@ http://172.16.131.235:8080/spider-web/riviews/gardenindex/provincesYearGDPIndex
 ## 创新指数
 
 ### 创新指数-各省专利数量构成
-
+```
+http://172.16.131.235:8080/spider-web/riviews/gardenindex/provincesInventionComposeIndex
+```
 最近5年数据， 包括三个部分  发明专利有效量、实用新专利有效量、外观设计有效量 这三个维度的各省数据
 
 ```json
